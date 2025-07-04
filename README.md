@@ -8,7 +8,7 @@ I've worked on a few exciting projects in embedded systems during my studies.
 
 💻 **Coding & Learning**  
 - Currently learning **Data Structures and Algorithms (DSA)**
-- Building hands-on projects in **Data Analysis**
+- Building hands-on projects in **Data Science**
 - Exploring app development with **Flutter**
 
 🛠️ **Languages & Tools**
